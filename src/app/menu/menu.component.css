@@ -1,0 +1,4 @@
+
+:host ::ng-deep .table-success {
+  --bs-table-bg: lightgreen;
+}
